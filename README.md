@@ -1,3 +1,3 @@
 # Docker-
 
-Ubuntu bases docker image for installing specific version of ruby and phantomjs
+Ubuntu based docker image for installing specific version of ruby and phantomjs
